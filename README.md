@@ -36,12 +36,15 @@
 ![GitHub Contribution Graph](https://raw.githubusercontent.com/rfyiamcool/rfyiamcool/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">My Github Stats</h2>
-![](https://github-readme-stats.vercel.app/api?username=JJONK19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJONK19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 <h2 align="center">Quotes</h2>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h2 align="center">Quotes</h2>
-![](https://github-contributor-stats.vercel.app/api?username=JJONK19&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<h2 align="center">Contributor Stats</h2>
+
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=JJONK19&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <br>
